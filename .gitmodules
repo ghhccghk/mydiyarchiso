@@ -1,0 +1,12 @@
+[submodule "233/optimus-manager"]
+	path = 233/optimus-manager
+	url = https://aur.archlinux.org/optimus-manager.git
+[submodule "233/optimus-manager-qt"]
+	path = 233/optimus-manager-qt
+	url = https://aur.archlinux.org/optimus-manager-qt.git
+[submodule "233/fcitx-sogoupinyin"]
+	path = 233/fcitx-sogoupinyin
+	url = https://aur.archlinux.org/fcitx-sogoupinyin.git
+[submodule "233/yesplaymusic"]
+	path = 233/yesplaymusic
+	url = https://aur.archlinux.org/yesplaymusic.git
