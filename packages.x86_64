@@ -146,3 +146,5 @@ xfce4-pulseaudio-plugin
 pavucontrol
 lightdm-gtk-greeter
 yesplaymusic
+wimlib
+debootstrap
