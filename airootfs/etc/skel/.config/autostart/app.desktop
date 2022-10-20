@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/usr/bin/xfconf-query -c xfce4-desktop -p /backdrop/screen0/monitor0/workspace0/last-image -s "/usr/share/backgrounds/xfce/DSC00346.jpg"
+Icon=
+Name=app
+Path=
+Terminal=False
+Type=Application
